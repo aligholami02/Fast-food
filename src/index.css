@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: face;
+    src: url(../font/Peyda/Peyda-SemiBold.ttf);
+}
+
+.body {
+    font-family: face;
+}
